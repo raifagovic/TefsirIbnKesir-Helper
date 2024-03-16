@@ -1,1 +1,1 @@
-# tefsir-scripts
+# Tefsir Ibn Kesir - Helper
